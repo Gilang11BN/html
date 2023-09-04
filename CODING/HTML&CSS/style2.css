@@ -1,0 +1,55 @@
+h3 {
+  color: brown;
+  font-style: italic;
+}
+.td1 {
+  color: brown;
+  background-color: cadetblue;
+  border: 1px dotted brown;
+  font-family: georgia;
+  padding: 5px;
+  margin: 10px;
+}
+.td2 {
+  background-color: coral;
+  border: 1px dotted brown;
+  padding: 5px;
+  margin: 10px;
+}
+.td3 {
+  background-color: coral;
+  border: 1px dotted brown;
+  padding: 5px;
+  margin: 10px;
+}
+.td4 {
+  background-color: cornflowerblue;
+  border: 1px dotted brown;
+  color: white;
+  font-family: cursive;
+  font-style: italic;
+  padding: 5px;
+  margin: 10px;
+}
+table {
+  width: 50%;
+  box-shadow: 0px 0px 20px 0px #fadc63;
+}
+body {
+  background-image: linear-gradient(
+    to left bottom,
+    #171794,
+    #2a1999,
+    #381b9d,
+    #451da2,
+    #501fa6,
+    #4c2cad,
+    #4837b4,
+    #4441ba,
+    #2d52c1,
+    #1160c4,
+    #006dc5,
+    #0078c4
+  );
+  background-attachment: fixed;
+}
